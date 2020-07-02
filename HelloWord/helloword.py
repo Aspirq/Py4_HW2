@@ -1,4 +1,4 @@
-class HelloWord (object):
+class HelloWord(object):
     def __init__(self):
         self.__hw_string = "Привет мир!"
 
